@@ -17,4 +17,5 @@
     <string name="dev">/</string>
     <string name="equal">=</string>
     <string name="clear">clear</string>
+    <string name="point">.</string>
 </resources>
